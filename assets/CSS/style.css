@@ -3,6 +3,7 @@
 }
 
 
+/* p1-5 for projects */
 .p1{
     background-image: url('../img/p1.jpg');
     height: 300px;
@@ -35,3 +36,11 @@
 .line-center{
     margin: 10px auto 0 auto;
 }
+
+
+/* padding */
+.prl-1{
+    padding-left: 3em !important;
+    padding-right: 3em !important;
+}
+
