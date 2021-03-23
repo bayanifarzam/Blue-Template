@@ -44,3 +44,23 @@
     padding-right: 3em !important;
 }
 
+.fit-content{
+    height: fit-content !important;
+}
+
+.rounded-img{
+    border-radius: 50%  !important;
+}
+
+.text-off-white{
+    color: #d7d2d2;
+}
+
+.bb{
+    border-bottom: white 3px solid !important;
+}
+
+
+.bg-purple{
+    background-color: purple !important;
+}
