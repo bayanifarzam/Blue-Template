@@ -15,6 +15,10 @@
     height: 300px;
     background-size: cover;
 }
+.p2:hover{
+    /* background-image: url('../img/p2.jpg'); */
+   background-color: blue;
+}
 
 .p3{
     background-image: url('../img/p3.png');
@@ -68,3 +72,9 @@
 .bg-silver{
     background-color: silver !important;
 }
+
+
+.s1  h3 {
+   margin-top: 20%;
+}
+
